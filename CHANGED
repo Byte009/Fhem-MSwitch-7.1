@@ -1,0 +1,279 @@
+Version
+7.1
+Change: cmd verarbeitung , new ATTR MSwitch_lastState
+
+Version
+7.05
+Change: change MSwitch_Web.js
+
+Version
+7.04
+Change: some fixes
+
+Version
+7.03
+Change: some fixes
+
+Version
+7.02
+Change: bugfix RegEx
+
+Version
+7.01
+Change: bugfix delayed cmds
+
+Version
+7.00
+Change: add attr MSwitch_CMD_processing , new configdevice
+
+Version
+6.77
+Change: Bugfix SetMagic - neue SetMagic aktiviert (unabhaengig vom FutureLevel)
+
+Version
+6.76
+Change: Change Sub SetMagic
+
+Version
+6.75
+Change: Bugfix Generate Events , Trigger
+
+Version
+6.74
+Change: Bugfix selectedevents
+
+Version
+6.72
+Change: Configdevice, DynamicTrigger
+
+Version
+6.71
+Change: change dynamic trigger, cleanup debug, change backup (see Help) , code cleanp
+
+Version
+6.7
+Change: add dynamic trigger , fix some bugs
+
+Version
+6.63
+Change: change cmd wait ( wait now disable on off switch)
+
+Version
+6.62
+Change: change Frontend , new Trigger match_sequenz, Fix for new Fhemweb.js - bottomline
+
+Version
+6.61
+Change: fix frontend
+
+Version
+6.60
+Change: Frontend , some fixes
+
+Version
+6.56
+Change: Dynsetlist, chonge some loglevel, change Helpfile, change attr selftrigger
+
+Version
+6.55
+Change: bugfix Dynsetlist, fix perlwarning configdevice, change Helpfile
+
+Version
+6.54
+Change: Change ATTR MSwitch_event_wait, activate Dynsetlist
+
+Version
+6.53
+Change: Fix Perlwarning, Cleanup, change cmd get
+
+Version
+6.52
+Change: Delays,Counter,Bugfixes
+
+Version
+6.51
+Change: Delayoptions
+
+Version
+6.41
+Change: add group readings
+
+Version
+6.4
+Change: Bugfix
+
+Version
+6.32
+Change: Bugfix Safari Bug, NotifyOrderPraefix Bug
+
+Version
+6.31
+Change: Bugfix Modulmode
+
+Version
+6.3
+Change:rename ,configdevice
+
+Version
+6.2
+Change: https://forum.fhem.de/index.php/topic,121817.0.html
+
+Version
+6.1
+Change: Anpassungen und Optimierung des Wizards
+
+Version
+6.00
+Change: https://forum.fhem.de/index.php/topic,121817.0.html
+
+Version
+5.57
+Change: div Fehler behoben
+
+Version
+5.56
+Change: Eventhistory , add ATTR MSwitch_Eventhistory_to_Reading, fix condition Timer
+	
+Version
+5.55
+Change: Wizard Change : delays
+
+Version
+5.54
+Perlwarnungen behoben - attr Inforoom entfernt - Anpassung Configdevice 
+
+Version
+5.53
+Fehler in eventbehandlung und regex behoben - anpassung reading last_cmd - wizard abruf readings - anpassung reading last_cmd - wizard abruf readings
+
+Version
+5.52
+kleinere Fehler behoben (Log,Backup,configtool) - Wizard v5.31
+
+Version
+5.51
+geaenderte readings last_xxx - geaenderte Speicher fuer wizard
+
+Version
+5.50
+Wizard V5.3 add VARREADING
+
+Version
+5.49
+Anpassung an erweitertes ConfigDevice
+
+Version
+5.48
+Fix: templateanpassung
+
+Version
+5.47
+Fix: regex again 
+
+Version
+5.46
+Fix: regex
+
+Version
+5.45
+Add: negierte Bedingung fuer Tage [HH:MM-HH:MM|!1234567]
+
+Version
+5.44
+Fix: Timerevents-übergabe an Conditions
+
+Version
+5.43
+diverse kleinere Fehler behoben
+
+Version
+5.42
+Fix: sunset/sunrise etc.
+
+Version
+5.41
+Fix: 3stellige Zeitangaben in Bedingungen
+
+Version
+5.4
+change sub condition / fix holiday data
+
+Version
+5.32
+fix conditions $we
+
+Version
+5.31
+fix webwidgets fis condition-eventbulks fix timer Sunday
+
+Version
+5.3
+add widgets to web.js - mask " to \" at events
+
+Version
+5.2
+add ATTR Mswitch_Futurelevel, add widgets to wizard, change sub conditions, change timerhandling
+
+Version
+5.19
+not published 
+
+Version
+5.18
+add to TIMER CDAY,lastday 
+
+Version
+5.17
+add dynamic attr Mswitch_wait
+
+Version
+5.16
+fix state - add setmagic conditions
+
+Version
+5.15
+Fix test comand
+
+Version 5.14
+Fix Regex error
+
+Version 5.13
+
+Version 5.12
+Fix Extension Toggle
+
+Version 5.11
+Fix geloescht Log0 bei Timerabbruch
+
+Version 5.10
+Fix Eventmapping
+
+Version 5.09
+Fix $NAME (FREECMD)
+
+Version 5.08
+anpassung deutsche Hilfedatei
+
+Version 5.07
+Change statistics
+
+Version 5.06
+Change Safemodetiming , add statistics
+
+Version 5.05
+change MSwitch_Eventmapping
+
+Version 5.04
+Fix trigger with condition
+
+Version 5.03
+Fix "test cmd" buttons
+
+Version 5.02
+Startverhalten optimiert und Modul-Grundlast minimiert
+
+Version 5.01
+Change: Safemode,Startverhalten,Eventverarbeitung ... etc.
+
+Version 5.0
+Change: System V5.0
